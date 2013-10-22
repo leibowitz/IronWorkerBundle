@@ -1,0 +1,13 @@
+{
+    "name": "leibowitz/iron-worker-bundle",
+    "description": "IronWorker wrapper",
+    "require": {
+        "iron-io/iron_worker": "1.4.1"
+    },
+    "authors": [
+        {
+            "name": "Gianni Moschini",
+            "email": "gianni.moschini+git@gmail.com"
+        }
+    ]
+}
